@@ -1,0 +1,7 @@
+user name     : admin
+pass	      : root
+
+username     : unknown
+password     : spartans
+
+Using concepts::(Linklist, stack, queue,file handling, global variables, global objects, structure 4 types)

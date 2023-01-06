@@ -1,0 +1,8 @@
+Cnic no 	:		111
+Name is 	:		abdullah
+Seats is 	:		5
+Class :				G
+Payment Type	:		44000
+Destination is	:		Karachi
+Status :			ACTIVE
+***********************************************
